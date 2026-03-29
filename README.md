@@ -8,6 +8,6 @@ Start date: 29 march 2026
 Timeline: 3 months
 
 ## Week 1 progress
-- [] Set up google Colab
-- [] Wrote first Python code
-- [] Made GitHun repo
+- [X] Set up google Colab
+- [X] Wrote first Python code
+- [X] Made GitHun repo
